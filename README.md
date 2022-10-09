@@ -27,6 +27,5 @@ Open a terminal and run
 python3 download.py
 ```
 
-
-Open a terminal in this folder and run `sh download.sh`
-That will download the latest data as defined in the download file
+No you have the data you can open `example_notebook.ipynb` - it should open as a Python notebook.
+See a description of [how Python notebooks work here](https://towardsdatascience.com/getting-started-with-jupyter-notebooks-in-visual-studio-code-5dcccb3f739b)
