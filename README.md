@@ -27,5 +27,6 @@ Open a terminal and run
 python3 download.py
 ```
 
-No you have the data you can open `example_notebook.ipynb` - it should open as a Python notebook.
+Now you have the data you can open the following Jupyter notebook file: `example_notebook.ipynb` - it should open as a Python notebook.
+
 See a description of [how Python notebooks work here](https://towardsdatascience.com/getting-started-with-jupyter-notebooks-in-visual-studio-code-5dcccb3f739b)
